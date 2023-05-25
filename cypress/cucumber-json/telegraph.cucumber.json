@@ -1,0 +1,43 @@
+[
+  {
+    "description": "    test Telegraph application",
+    "keyword": "Feature",
+    "name": "Zenobe apllication",
+    "line": 1,
+    "id": "zenobe-apllication",
+    "tags": [],
+    "uri": "zenobe.feature",
+    "elements": [
+      {
+        "id": "zenobe-apllication;test-our-story-page",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "test Our story page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "the User visits to 'Home' page",
+            "result": {
+              "status": "passed",
+              "duration": 2363000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "the User navigates to 'Capabilities' page",
+            "result": {
+              "status": "passed",
+              "duration": 614000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,4 +1,4 @@
-# Playwright_PageObjectModel
+# Cypress_PageObjectModel
 create Page Object Model framework in Playwright
 This is done on a Node project with JavaScript
 
